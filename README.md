@@ -1,4 +1,4 @@
-
+[![MasterHead](https://previews.123rf.com/images/vegorus/vegorus2105/vegorus210500006/170444990-matrix-background-binary-code-with-random-numbers-modern-technology-wallpaper-blue-falling-digits.jpg)](https://github.com/Hilalbasibuyuk)
 <h1 align="center">Hi 👋, I'm Hilal</h1>
 <h3 align="center">A computer engineering from Turkey</h3>
 https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-4563721-3817229.mp4?h=700
@@ -11,9 +11,8 @@ https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer
 
 - 📫 How to reach me **hilal_b00@outlook.com**
 
-- 📄 Know about my experiences linkedln hesabıma bakabilirsiniz
+- 📄 Know about my experiences please look at my linkedln profile
 
-- ⚡ Fun fact **I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
