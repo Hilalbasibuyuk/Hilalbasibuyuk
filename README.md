@@ -11,7 +11,7 @@ https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer
 
 - 📫 How to reach me **hilal_b00@outlook.com**
 
-- 📄 Know about my experiences [linkedln hesabıma bakabilirsiniz](linkedln hesabıma bakabilirsiniz)
+- 📄 Know about my experiences linkedln hesabıma bakabilirsiniz
 
 - ⚡ Fun fact **I am not funny**
 
