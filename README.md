@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalbasibuyuk&label=Profile%20views&color=0e75b6&style=flat" alt="hilalbasibuyuk" /> </p>
 
-- 🌱 I’m currently learning **Python modules**
+- 🌱 I’m currently learning **Generative Ai**
 
 - 📫 How to reach me **hilal_b00@outlook.com**
 
