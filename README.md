@@ -1,4 +1,3 @@
-[![MasterHead]([])(https://github.com/Hilalbasibuyuk)]
 <h1 align="center">Hi 👋, I'm Hilal</h1>
 <h3 align="center">A computer engineering from Turkey</h3>
 
