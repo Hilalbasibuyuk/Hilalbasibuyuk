@@ -1,5 +1,5 @@
 <h1 align="center">Welcome my profile ♡ </h1>
-<h3 align="center">A computer engineering from Turkey</h3>
+<h3 align="center">I am computer engineering student in Ataturk University</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalbasibuyuk&label=Profile%20views&color=0e75b6&style=flat" alt="hilalbasibuyuk" /> </p>
