@@ -4,12 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalbasibuyuk&label=Profile%20views&color=0e75b6&style=flat" alt="hilalbasibuyuk" /> </p>
 
-- 🌱 I’m currently learning **Generative Ai**
+-  I’m currently learning **Generative Ai**
 
-- 📫 How to reach me **hilal_b00@outlook.com**
-
-- 📄 Know about my experiences you can my linkedln profile
-
+-  How to reach me **hilal_b00@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
