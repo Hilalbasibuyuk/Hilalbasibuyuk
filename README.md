@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hilalbaibyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilalbaibyk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hilal-ba%c5%9fib%c3%bcy%c3%bck-981ba0253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hilal-ba%c5%9fib%c3%bcy%c3%bck-981ba0253/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/hilal-ba%c5%9fib%c3%bcy%c3%bck-981ba0253/](https://www.linkedin.com/in/hilal-ba%C5%9Fib%C3%BCy%C3%BCk-981ba0253/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hilal-ba%c5%9fib%c3%bcy%c3%bck-981ba0253/" height="30" width="40" /></a>
 <a href="https://kaggle.com/hilal başibüyük" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hilal başibüyük" height="30" width="40" /></a>
 <a href="https://instagram.com/hilal.basibuyuk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilal.basibuyuk1" height="30" width="40" /></a>
 </p>
