@@ -1,6 +1,15 @@
-<h1 align="center">Welcome my profile ♡ </h1>
-<h3 align="center">I am computer engineering student in Ataturk University</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalbasibuyuk&label=Profile%20views&color=0e75b6&style=flat" alternatif="hilalbasibuyuk" /> </p>
+<table width="80%">
+  <tr>
+    <td>
+      <h1>Welcome to My Profile ♡</h1>
+      <h3>I am a Computer Engineering student at Ataturk University</h3>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Hilalbasibuyuk/Hilalbasibuyuk/main/Woman_operating_virtual_robot.gif" width="350">
+    </td>
+  </tr>
+</table>
+
 
 -  I’m currently learning **Generative Ai**
 
