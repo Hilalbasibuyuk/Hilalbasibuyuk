@@ -11,14 +11,14 @@
 
 - I’m currently learning **Agents Systems**
 
-- I regularly write articles on [https://medium.com/@hilalbasibuyuk8](https://medium.com/@hilalbasibuyuk8)
+- I regularly write articles on https://medium.com/@hilalbasibuyuk8
 
-- How to reach me **hilal_b00@outlook.com**
+- How to reach me **hilal.basibuyuk21@ogr.atauni.edu.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hilalbasibuyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilalbasibuyuk" height="30" width="40" /></a>
-<a href="https://medium.com/hilalbasibuyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hilalbasibuyuk" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/hilalbasibuyuk](https://www.linkedin.com/in/hilal-ba%C5%9Fib%C3%BCy%C3%BCk-981ba0253/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilalbasibuyuk" height="30" width="40" /></a>
+<a href="[https://medium.com/hilalbasibuyuk](https://medium.com/@hilalbasibuyuk8)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hilalbasibuyuk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
