@@ -1,4 +1,9 @@
 <h1 align="center">Welcome to my profile ♡</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/277775d2-b62e-44aa-a5ca-6b96dd26e283" alt="Work Working Hard GIF by Pudgy Penguins" />
+</p>
+
 <h3 align="center">A computer engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalbasibuyuk&label=Profile%20views&color=0e75b6&style=flat" alt="hilalbasibuyuk" /> </p>
